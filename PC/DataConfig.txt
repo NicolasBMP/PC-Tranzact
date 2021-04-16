@@ -1,0 +1,12 @@
+﻿>>>>>>>>> PARAMETER CONFIGURATION<<<<<<<<<
+
+See App.config file
+
+1. hours: This parameter is for the amount of past hours that want to be search. For example, the data for the last 5, 10 or 20 hours. (Default: 5)
+
+2. entries: This parameter is for the amount of lines or entries that are capture in the unzip text file. For example the first 1000. (Default: 1000)
+	If you want to get all the data, the parameter must be 'all'.
+
+3. show: This parameter is for showing the amount of entries obtained, order by the max_count_view attribute. (Default: 1000)
+
+4. url: The url parameter is just in case de url of the page change.
